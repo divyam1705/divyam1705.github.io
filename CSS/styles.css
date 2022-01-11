@@ -1,4 +1,10 @@
-div {}
+
+html,body
+{
+    margin: 0px;
+    width: 100%;
+    overflow-x: hidden;    
+}
 body {margin: 0;
 text-align: center;
 font-family: 'Zen Kaku Gothic Antique', sans-serif;
